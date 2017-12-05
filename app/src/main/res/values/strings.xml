@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MobileWar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tap_to_play">Tap card to play</string>
+    <string name="their_card">Opponents Card</string>
+    <string name="my_card">Your Card</string>
+    <string name="title_activity_connect_bluetooth">Connect Bluetooth</string>
+    <string name="no_bluetooth">Bluetooth is not available</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="other_devices">Other Available Devices</string>
+    <string name="scan">Scan for devices</string>
+    <string name="make_discoverable">Make Discoverable</string>
+    <string name="select_device">Select a device to connect</string>
+    <string name="deal">DEAL</string>
+    <string name="my_last_card_desc">The card I last played.</string>
+    <string name="their_last_card_desc">Their last card played.</string>
+    <string name="no_devices_found">No Devices found.</string>
+    <string name="no_devices_paired">No devices have been paired.</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="reconnect_device">Connect to Device</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="make_host">Make Device Host</string>
+    <string name="exit">Exit</string>
+</resources>

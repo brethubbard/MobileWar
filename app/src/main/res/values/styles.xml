@@ -1,0 +1,9 @@
+<resources>
+
+    <color name="board_green">#106C33</color>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/board_green</item>
+        <item name="android:colorBackground">@color/board_green</item>
+    </style>
+
+</resources>
